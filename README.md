@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?logo=powerbi)](#)
+[![View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhlODFhZmUtMzcwYy00OTg0LWE0YmMtZDVhNmRmOGQxNzExIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)](#)
 
 ## 🔎 Project Overview
 
