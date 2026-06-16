@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="Screenshot_1.png" alt="Geo Sales Intelligence Dashboard" width="1000"/>
+      <img src="Screenshot 2026-06-16 162930.png" alt="Geo Sales Intelligence Dashboard" width="1000"/>
     </td>
   </tr>
 </table>
