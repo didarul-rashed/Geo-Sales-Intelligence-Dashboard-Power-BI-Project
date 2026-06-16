@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-[![View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhlODFhZmUtMzcwYy00OTg0LWE0YmMtZDVhNmRmOGQxNzExIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)](#)
+[![View Live Dashboard](https://img.shields.io/badge/🚀%20View-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjhlODFhZmUtMzcwYy00OTg0LWE0YmMtZDVhNmRmOGQxNzExIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
 
 ## 🔎 Project Overview
 
